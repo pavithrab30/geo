@@ -42,6 +42,16 @@ docker-compose up --build
 Frontend → `http://localhost:80`  
 Backend → `http://localhost:8000`
 
+
+
+---
+```
+DASHBOARD OUTPUT 
+
+![output1](img1.jpeg)
+![output2](img2.jpeg)
+
+
 ---
 
 ## Project Structure
