@@ -1,8 +1,8 @@
-# 🌍 GeoInsight API
+# 🌍 GeoInsight 
 
 ### Full-Stack Geospatial File Processing & Analytics Platform
 
-GeoInsight API is a full-stack geospatial data processing application built with **FastAPI, React, TypeScript, GeoPandas, and Shapely**.
+GeoInsight  is a full-stack geospatial data processing application built with **FastAPI, React, TypeScript, GeoPandas, and Shapely**.
 
 It enables users to upload Shapefiles or KML files, automatically process geospatial features, calculate geometry measurements, validate spatial data, and visualize results through an interactive dashboard.
 
